@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="zbsp">
+        <item >http://live9.hbtv.com.cn/channels/zbk/hbys/flv:sd/live</item>
+        <item >rtmp://live.hkstv.hk.lxdns.com/live/hks</item>
+        <item ></item>
+    </string-array>
+</resources>
